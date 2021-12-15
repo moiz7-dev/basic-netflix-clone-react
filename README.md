@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# BASIC NETFLIX CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic clone of netflix single page along with movie categories with a trailer combo.
+The project was made on ReactJS w/o Redux.
 
 ## Available Scripts
 
